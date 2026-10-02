@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+uploads/*
+!uploads/.gitkeep
+results/*
+!results/.gitkeep
+models/*.keras
+models/*.h5
+.pytest_cache/
